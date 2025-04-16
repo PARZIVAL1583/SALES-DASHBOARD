@@ -136,3 +136,4 @@ Slicers for dynamic filtering by time, region, and category.
 
 Professional formatting for readability and presentation.
 
+![Image](https://github.com/user-attachments/assets/48f5623c-7a25-4576-8977-0348c8815e8b)
